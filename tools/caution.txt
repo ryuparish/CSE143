@@ -1,0 +1,5 @@
+Bullshit to Come:
+    - Correct types and/or return types
+    - Java defined functions that do things you do not expect or do not know about
+    - Prof. Schafer's nonsensical/obfuscative instructions and ambiguity.
+    - Autocompletion in the trash Ed IDE that completes things in an unexpected way.

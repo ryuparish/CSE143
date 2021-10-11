@@ -1,0 +1,19 @@
+Ordering of code in classes
+    1. Field Data
+    2. Constructors
+    3. Public Methods
+    4. Private Methods
+
+Commenting:
+    BERP:
+        Behavior : What does it do?
+        Exceptions : Describe what would throw and exception
+        Return : What is returned?
+        Parameters : What is passed in?
+
+Naming:
+    Casing
+        Fields, local variables, and methods should be camelCased, where every word after the first begins with capitalization.
+        Class names and constructors should be UpperCamelCased. This is camel casing but the first word also begins with capitalization.
+        Class constants should be SCREAMING_CASE, where words are all uppercase and separated by underscores.
+

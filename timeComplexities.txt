@@ -1,0 +1,2 @@
+TreeSet = O(logn) [Red-Black Tree]
+HashSet = O(1) [Hash Function]

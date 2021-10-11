@@ -1,0 +1,3 @@
+
+A single class can implement many different interfaces. Interfaces have no fully-defined methods, just signifying that they are needed.
+    * Classes are subsets of the methods within their designated interfaces.
